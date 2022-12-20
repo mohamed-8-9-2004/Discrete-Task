@@ -4,31 +4,38 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Project_1__Prime_Number_
+namespace Project_2__perfect_numbers_
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int n1, n2, i, j;
+            int n1,n2, i, sum ,j;
             Console.WriteLine("Enter The Range From n1 To n2");
             n1 = int.Parse(Console.ReadLine());
             n2 = int.Parse(Console.ReadLine());
+            
+            
 
-            for (i = n1; i <= n2; i++)
-            {
-                for (j = 2; j < i; j++)
+
+                for (i = n1; i <= n2; i++)
                 {
-                    if (i % j == 0)
-                    {
-                        break;
-
-                    }
-
-                }
-                if (i == j)
-                    Console.WriteLine(i);
-            }
+                sum = 0;
+                   for (j = 1; j < i; j++)
+                   {
+                        if (i % j == 0)
+                        sum = sum + j;
+                   }
+                   if (sum == i)
+                     Console.WriteLine(i);
+                } 
+                
+               
+            
+                Console.ReadKey();
+            
         }
+
+
     }
 }

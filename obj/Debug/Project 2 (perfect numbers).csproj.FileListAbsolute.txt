@@ -1,0 +1,8 @@
+C:\Users\mmoha\OneDrive\سطح المكتب\Project 2 (perfect numbers)\Project 2 (perfect numbers)\bin\Debug\Project 2 (perfect numbers).exe.config
+C:\Users\mmoha\OneDrive\سطح المكتب\Project 2 (perfect numbers)\Project 2 (perfect numbers)\bin\Debug\Project 2 (perfect numbers).exe
+C:\Users\mmoha\OneDrive\سطح المكتب\Project 2 (perfect numbers)\Project 2 (perfect numbers)\bin\Debug\Project 2 (perfect numbers).pdb
+C:\Users\mmoha\OneDrive\سطح المكتب\Project 2 (perfect numbers)\Project 2 (perfect numbers)\obj\Debug\Project 2 (perfect numbers).csproj.AssemblyReference.cache
+C:\Users\mmoha\OneDrive\سطح المكتب\Project 2 (perfect numbers)\Project 2 (perfect numbers)\obj\Debug\Project 2 (perfect numbers).csproj.SuggestedBindingRedirects.cache
+C:\Users\mmoha\OneDrive\سطح المكتب\Project 2 (perfect numbers)\Project 2 (perfect numbers)\obj\Debug\Project 2 (perfect numbers).csproj.CoreCompileInputs.cache
+C:\Users\mmoha\OneDrive\سطح المكتب\Project 2 (perfect numbers)\Project 2 (perfect numbers)\obj\Debug\Project 2 (perfect numbers).exe
+C:\Users\mmoha\OneDrive\سطح المكتب\Project 2 (perfect numbers)\Project 2 (perfect numbers)\obj\Debug\Project 2 (perfect numbers).pdb
