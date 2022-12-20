@@ -1,0 +1,8 @@
+C:\Users\mmoha\source\repos\Project 1 (Prime Number)\Project 1 (Prime Number)\obj\Debug\Project 1 (Prime Number).csproj.AssemblyReference.cache
+C:\Users\mmoha\source\repos\Project 1 (Prime Number)\Project 1 (Prime Number)\obj\Debug\Project 1 (Prime Number).csproj.SuggestedBindingRedirects.cache
+C:\Users\mmoha\source\repos\Project 1 (Prime Number)\Project 1 (Prime Number)\obj\Debug\Project 1 (Prime Number).csproj.CoreCompileInputs.cache
+C:\Users\mmoha\source\repos\Project 1 (Prime Number)\Project 1 (Prime Number)\bin\Debug\Project 1 (Prime Number).exe.config
+C:\Users\mmoha\source\repos\Project 1 (Prime Number)\Project 1 (Prime Number)\bin\Debug\Project 1 (Prime Number).exe
+C:\Users\mmoha\source\repos\Project 1 (Prime Number)\Project 1 (Prime Number)\bin\Debug\Project 1 (Prime Number).pdb
+C:\Users\mmoha\source\repos\Project 1 (Prime Number)\Project 1 (Prime Number)\obj\Debug\Project 1 (Prime Number).exe
+C:\Users\mmoha\source\repos\Project 1 (Prime Number)\Project 1 (Prime Number)\obj\Debug\Project 1 (Prime Number).pdb
