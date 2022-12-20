@@ -15,7 +15,7 @@ namespace Project_1__Prime_Number_
             n1 = int.Parse(Console.ReadLine());
             n2 = int.Parse(Console.ReadLine());
 
-            for (i = n1; i < n2; i++)
+            for (i = n1; i <= n2; i++)
             {
                 for (j = 2; j < i; j++)
                 {
